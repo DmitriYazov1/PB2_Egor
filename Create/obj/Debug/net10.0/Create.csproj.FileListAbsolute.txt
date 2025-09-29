@@ -1,0 +1,14 @@
+C:\Users\Дмитрий Язов\source\repos\Create\Create\bin\Debug\net10.0\Create.exe
+C:\Users\Дмитрий Язов\source\repos\Create\Create\bin\Debug\net10.0\Create.deps.json
+C:\Users\Дмитрий Язов\source\repos\Create\Create\bin\Debug\net10.0\Create.runtimeconfig.json
+C:\Users\Дмитрий Язов\source\repos\Create\Create\bin\Debug\net10.0\Create.dll
+C:\Users\Дмитрий Язов\source\repos\Create\Create\bin\Debug\net10.0\Create.pdb
+C:\Users\Дмитрий Язов\source\repos\Create\Create\obj\Debug\net10.0\Create.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий Язов\source\repos\Create\Create\obj\Debug\net10.0\Create.AssemblyInfoInputs.cache
+C:\Users\Дмитрий Язов\source\repos\Create\Create\obj\Debug\net10.0\Create.AssemblyInfo.cs
+C:\Users\Дмитрий Язов\source\repos\Create\Create\obj\Debug\net10.0\Create.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий Язов\source\repos\Create\Create\obj\Debug\net10.0\Create.dll
+C:\Users\Дмитрий Язов\source\repos\Create\Create\obj\Debug\net10.0\refint\Create.dll
+C:\Users\Дмитрий Язов\source\repos\Create\Create\obj\Debug\net10.0\Create.pdb
+C:\Users\Дмитрий Язов\source\repos\Create\Create\obj\Debug\net10.0\Create.genruntimeconfig.cache
+C:\Users\Дмитрий Язов\source\repos\Create\Create\obj\Debug\net10.0\ref\Create.dll
